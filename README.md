@@ -50,4 +50,4 @@ The dataset used for this project is synthetic and available on Kaggle. You can 
 This project successfully analyzed the sales data, providing valuable insights into customer behavior and product pricing. The predictive model for dynamic pricing is highly accurate, helping to automate and improve the business's Order-to-Cash process.
 
 ## Contact
-For any questions or feedback, feel free to reach out to [Your Name] at [Your Email].
+For any questions or feedback, please contact [Rajarshi Nandi](https://www.linkedin.com/in/rajarshi-nandi-a77aa5214/) at [mm23rn.leeds.ac.uk](mm23rn.leeds.ac.uk).
